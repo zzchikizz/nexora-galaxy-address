@@ -1,1 +1,6 @@
-{"schema":1,"application":"NexoraGalaxy","serverUrl":"https://nitrogen-thu-jpeg-warriors.trycloudflare.com/","transport":"tunnel"}
+{
+    "transport":  "tunnel",
+    "schema":  1,
+    "serverUrl":  "https://nitrogen-thu-jpeg-warriors.trycloudflare.com/",
+    "application":  "NexoraGalaxy"
+}
